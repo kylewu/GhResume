@@ -10,7 +10,7 @@
   username = url("?").replace(/^\/|\/$/g, '');
 
   if (!username) {
-    username = "hit9";
+    username = "kylewu";
   }
 
   $(document).ready(function() {
